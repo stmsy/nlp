@@ -102,3 +102,6 @@ ENV/
 
 # macOS
 .DS_Store/
+
+# Customized Git submodules
+utils/
